@@ -26,5 +26,8 @@
   "dependencies": {
     "async": "~0.2.10",
     "extend": "~1.2.1"
+  },
+  "engines" : {
+    "node" : ">=0.10.0"
   }
 }
