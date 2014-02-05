@@ -1,6 +1,5 @@
 # stream-concat-files
-
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
 Concatenates a bunch of files into one new file (or into any writable stream you provide).
 
@@ -40,3 +39,11 @@ You can optionally pass in an options object just before the callback.
 
 ## License
 Copyright (c) 2014 . Licensed under the MIT license.
+
+
+
+[npm-url]: https://npmjs.org/package/stream-concat-files
+[npm-image]: https://badge.fury.io/js/stream-concat-files.png
+
+[travis-url]: http://travis-ci.org/callumlocke/stream-concat-files
+[travis-image]: https://secure.travis-ci.org/callumlocke/stream-concat-files.png?branch=master
